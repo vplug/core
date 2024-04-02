@@ -33,5 +33,7 @@
     "vitest": "^1.4.0"
   },
   "prettier": "@ntnyq/prettier-config",
-  "nano-staged": {}
+  "nano-staged": {
+    "*.{js,ts,vue,md,json,yml,yaml}": "eslint --fix"
+  }
 }
