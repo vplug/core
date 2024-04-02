@@ -1,0 +1,5 @@
+{
+  "prettier.enable": true,
+  "eslint.enable": true,
+  "cSpell.words": ["iife", "lcov", "tsup", "vplug", "vuejs"]
+}
