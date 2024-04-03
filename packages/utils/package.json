@@ -1,7 +1,0 @@
-{
-  "name": "@vplug/utils",
-  "version": "0.0.0",
-  "scripts": {
-    "build": "tsup"
-  }
-}
