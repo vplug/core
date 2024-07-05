@@ -1,5 +1,5 @@
-import { Plugin } from 'vue'
 import { SketchRuler } from './components/SketchRuler'
+import type { Plugin } from 'vue'
 
 export const install: Plugin = app => {
   app.component(SketchRuler.name!, SketchRuler)

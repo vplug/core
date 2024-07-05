@@ -1,5 +1,5 @@
-import { Plugin } from 'vue'
 import { CountTo } from './components/CountTo'
+import type { Plugin } from 'vue'
 
 export const install: Plugin = app => {
   app.component(CountTo.name!, CountTo)
