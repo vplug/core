@@ -10,7 +10,7 @@ export const SketchRulerPlugin = {
 }
 export { SketchRulerPlugin as default }
 
-export * from './components/CanvasRuler'
 export * from './components/RulerLine'
-export * from './components/RulerWrapper'
+export * from './components/CanvasRuler'
 export * from './components/SketchRuler'
+export * from './components/RulerWrapper'

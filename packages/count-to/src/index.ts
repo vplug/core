@@ -10,4 +10,5 @@ export const CountToPlugin = {
 }
 export { CountToPlugin as default }
 
+export * from './types'
 export * from './components/CountTo'
